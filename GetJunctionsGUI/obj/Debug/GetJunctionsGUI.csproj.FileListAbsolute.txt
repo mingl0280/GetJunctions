@@ -1,0 +1,9 @@
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\bin\Debug\GetJunctionsGUI.exe.config
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\bin\Debug\GetJunctionsGUI.exe
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\bin\Debug\GetJunctionsGUI.pdb
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\obj\Debug\GetJunctionsGUI.csprojResolveAssemblyReference.cache
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\obj\Debug\GetJunctionsGUI.Form1.resources
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\obj\Debug\GetJunctionsGUI.Properties.Resources.resources
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\obj\Debug\GetJunctionsGUI.csproj.GenerateResource.Cache
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\obj\Debug\GetJunctionsGUI.exe
+H:\VS2017\C#\GetJunctionsGUI\GetJunctionsGUI\obj\Debug\GetJunctionsGUI.pdb
